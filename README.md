@@ -1,2 +1,3 @@
 # hello-world
-This is a simple test.
+This is my public repository.
+
